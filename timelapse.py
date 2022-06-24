@@ -4,7 +4,7 @@ from picamera import PiCamera
 import os
 
 #time delay from bootup
-time.sleep(20)
+time.sleep(20) #seconds
 
 camera= PiCamera()
 camera.resolution = (2592,1944)
