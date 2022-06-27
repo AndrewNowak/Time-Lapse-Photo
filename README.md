@@ -2,6 +2,9 @@
 
 A simple python script for executing time lapse photography using a Raspberry Pi!
 
+To see examples of timelapses follow this link to a YouTube channel with examples! 
+https://www.youtube.com/channel/UCljDpG-BOpbhZpZKZbqPt2g
+
 The materials used in this project include:
     Raspberry Pi Zero W2
     Zero Spy Camera (https://www.adafruit.com/product/3508)
